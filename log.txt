@@ -1,0 +1,4 @@
+xgboost with only numeric feature: Root Mean Squared Error: 29390.61328125 (overfit)
+xgboost with numeric feature and low cardinality categorical feature and early stop: Root Mean Squared Error: 32706.6796875
+xgboost with numeric feature and low cardinality categorical feature and early stop + drop columns with missing value: Root Mean Squared Error: 27585.984375
+xgboost with handling missing entry + handling categorical columns + early stop: Root Mean Squared Error: 30575.21484375
