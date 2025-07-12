@@ -1,3 +1,7 @@
-tmp model:
+base model:
     Root Mean Squared Error: 32505.482421875
     14964.12435
+
+add early stop and cross validation:
+    Root Mean Squared Error: 32669.935546875
+    15244.20524
